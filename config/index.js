@@ -1,3 +1,9 @@
+/*
+ * @Author: whf
+ * @Date: 2021-01-05 09:23:24
+ * @LastEditTime: 2021-01-05 10:35:36
+ * @FilePath: \vuedemo\config\index.js
+ */
 'use strict'
 // Template version: 1.3.1
 // see http://vuejs-templates.github.io/webpack for documentation.
@@ -50,7 +56,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: './',
 
     /**
      * Source Maps
